@@ -5,3 +5,7 @@
 ```java
 System.out.println("Affichage en java");
 ```
+### LIST
+- [x] Coding
+- [x] Modeling
+- [ ] Planning
